@@ -1,0 +1,25 @@
+# Environment
+.env
+.env.*
+tmp
+data
+db
+
+# OS files
+.DS_Store
+
+# Go build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
